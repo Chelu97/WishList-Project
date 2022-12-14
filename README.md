@@ -32,7 +32,6 @@ Da un ejemplo
 
 ### Instalación 🔧
 
-# Instalación <a name="id3"></a>
 Para instalar este proyecto tan solo sería necesario inntroducir ciertos comandos que se mostrarán a continuación
 
 - Con este comando añadiríamos todas las librerías necesarias y que tenemos en nuestro paquete json.
@@ -52,7 +51,7 @@ npm run docs
 
  <br>
 
-<img src="./public/estructura.png" alt="instalacion" style="width:200px;"/>
+<img src="./assets/img.png" alt="instalacion" style="width:200px;"/>
 
  <br>
 
