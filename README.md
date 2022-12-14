@@ -55,7 +55,7 @@ Así se vería una vez iniciado
 
 ## Autor ✒️
 
-* **José Luis Caravaca Carretero** - *Proyecto WishList React* - [I.E.S Francisco de los rios](https://github.com/Chelu97)
+* **José Luis Caravaca Carretero** - *Proyecto WishList React* - [My GitHub](https://github.com/Chelu97)
 
 ## Licencia 📄
 
