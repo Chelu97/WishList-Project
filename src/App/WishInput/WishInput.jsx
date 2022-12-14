@@ -2,6 +2,11 @@ import React, { useRef } from 'react';
 import { v4 as Uuid } from 'uuid';
 import PropTypes from 'prop-types';
 
+/**
+ * Render an input text for adding a new wish.
+ * @param {Function} onNewWish - Callback to run when a user introduces a new wish.
+ */
+
 function WishInput({ onNewWish }) {
   const wishInputText = useRef();
   return (
