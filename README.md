@@ -14,7 +14,7 @@ _A continuación se citan los requisitos necesarios para sacar la máxima puntuc
 * Reordenar los deseos de la lista, arrastrando los deseos, mediante iconos para subir o bajar el deseo, etc.
 * Buscar deseos, la lista se filtrará mostrando sólo los que correspondan con la búsqueda. Incluir algún proceso para eliminar esa búsqueda y que vuelvan a aparecer todos los deseos.
 
-### Instalación 🔧
+## Instalación 🔧
 
 Para instalar este proyecto tan solo sería necesario inntroducir ciertos comandos que se mostrarán a continuación
 
