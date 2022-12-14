@@ -1,0 +1,108 @@
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body,
+html {
+    padding: 0;
+    margin: 0;
+}
+
+.app {
+    width: 400px;
+    margin: auto;
+    max-width: 100%;
+    border: 1px solid;
+    padding: 0 2rem 2rem 2rem;
+    margin-top: 2rem;
+    background-color: whitesmoke;
+    margin-bottom: 2rem;
+}
+.wish-input {
+    border: 0;
+    border-bottom: 3px dashed gray;
+    padding: 0;
+}
+.wish-input__label {
+    font-weight: 700;
+}
+.wish-input__field {
+    width: 100%;
+    border: 0;
+    padding: 1rem;
+    font-size: 1.2rem;
+    background-color: transparent;
+}
+.wish-list {
+    list-style: none;
+    padding: 0;
+}
+.wish-list__item {
+    display: flex;
+    font-size: 1.2rem;
+    align-items: center;
+}
+
+.wish-list__item > * + * {
+    margin-left: 1rem;
+}
+.wish-list__item input {
+    width: 2rem;
+    height: 2rem;
+}
+.wish-list__item--done label {
+    text-decoration: line-through;
+}
+.wish-list__item--warning label{
+    color:orange;
+}
+.wish-list__item--danger label{
+    color:red;
+}
+.wish-clear {
+    color: black;
+    width: 100%;
+    padding: 0.5rem;
+    background: white;
+    font-size: 1.2rem;
+    border: 1px solid grey;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.wish-clear:hover {
+    background-color: red;
+}
+.wish-clear:active {
+    box-shadow: 0 2px rgba(226, 49, 84, 0.53);
+    transform: translateY(4px);
+}
+
+.wish-save {
+    margin-top:20px;
+    width: 100%;
+    padding: 0.5rem;
+    background: white;
+    font-size: 1.2rem;
+    border: 1px solid grey;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.wish-save:hover {
+    background-color: #009bff;
+    color: white;
+}
+.wish-save:active {
+    box-shadow: 0 2px rgba(0, 155, 255, 0.72);
+    transform: translateY(4px);
+}
+
+.logotipo{
+    margin-top: 20px !important;
+    justify-content: center;
+    display: flex;
+    margin:0 auto;
+    width: 60px;
+}
+.texto-centro{
+    text-align: center;
+}
