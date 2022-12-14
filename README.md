@@ -42,15 +42,15 @@ Así se vería una vez iniciado
 
  <br>
 
-#Una vez que tengamos desplegado nuestro proyecto podemos empezar a usarlo y ver todas sus funcionalidades:
+## Funcionalidades del proyecto:
 
 <br>
 
-1 Espacio para introducir nuevos deseos pulsando enter.
-2 Checkbox donde podremos marcar los deseos realizados.
-3 Boton para borrar los deseos ya realizados.
-4 Botón para guardar en el local host los cambios realizados
-5 Podremos mover los deseos de sitio simplemente clicando en ellos y arrastrando.
+1. Espacio para introducir nuevos deseos pulsando enter.
+2. Checkbox donde podremos marcar los deseos realizados.
+3. Boton para borrar los deseos ya realizados.
+4. Botón para guardar en el local host los cambios realizados
+5. Podremos mover los deseos de sitio simplemente clicando en ellos y arrastrando.
 
 
 ## Autor ✒️
