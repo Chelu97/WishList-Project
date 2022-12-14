@@ -60,7 +60,8 @@
             "browser": true
         },
         "rules": {
-            "linebreak-style": "off"
+            "linebreak-style": "off",
+            "react/jsx-props-no-spreading": "off"
         }
     },
     "prettier": {
