@@ -32,21 +32,29 @@ Da un ejemplo
 
 ### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+# Instalación <a name="id3"></a>
+Para instalar este proyecto tan solo sería necesario inntroducir ciertos comandos que se mostrarán a continuación
 
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
+- Con este comando añadiríamos todas las librerías necesarias y que tenemos en nuestro paquete json.
 
 ```
-hasta finalizar
+npm install
+```
+- Una vez instalado veremos una nueva carpeta llamada node_modules donde tendremos guardados todas las librerías necesarias para que nuestro programa funcione.
+
+ <br>
+
+- Para generar las diferentes carpetas mostradas en las imagen siguiente, una de ellas 'dist' esta expliacado en el apartado de Manual de Uso y para la creación de la documentación situada en la carpeta docs, seria con el siguiente comando
+
+```
+npm run docs
 ```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+ <br>
+
+<img src="./public/estructura.png" alt="instalacion" style="width:200px;"/>
+
+ <br>
 
 ## Ejecutando las pruebas ⚙️
 
